@@ -1,0 +1,42 @@
+* .home{
+    background-color:none;
+    }
+    .home:active{
+        background-color: rgb(19, 131, 135);
+    }
+    .about:active{
+        background-color: rgb(19, 131, 135);
+    }
+    .lang:active{
+        background-color: rgb(19, 131, 135);
+    }
+
+.header{
+    background-color: rgba(21, 112, 97, 0.335);
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    text-align: right;
+}
+
+.main{
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 20px;
+}
+
+.text_title{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.sign{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+
